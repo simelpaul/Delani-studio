@@ -9,7 +9,7 @@ body {
   .intro {
     background-image: url(/css/backgrounds/whatwedobackG.jpg);
     width: 90%;
-    background-size: cover;
+    background-size:contain;
     text-align: center;
     color: white;
   }
