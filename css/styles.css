@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color:darkgrey;
   }
   
   h4{
@@ -20,6 +20,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    size: 1pc;
   }
   .aboutUs {
     text-align: center;
@@ -84,6 +85,6 @@ body {
     color: black;
     justify-content: center;
     text-align: center;
-    font-size: x-small;
+    font-size:xx-small;
     font-family: 'Amaranth', sans-serif;
   }
