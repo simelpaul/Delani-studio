@@ -62,7 +62,7 @@ body {
     padding:2%;
   }
   .Contact-Us {
-    background-image: url(/assets/backgrounds/c_image.jpeg);
+    background-image: url(../assets/backgrounds/c_image.jpeg);
     background-size:cover;
     display: cover;
     width: 90%;
